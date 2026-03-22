@@ -243,6 +243,23 @@ img, iframe {
     transform: translateY(-2px);
 }
 
+.btn-secondary {
+    display: inline-block;
+    background-color: transparent;
+    color: #ffffff;
+    border: 1px solid rgba(255,255,255,0.7);
+    padding: 0.75rem 1.5rem;
+    border-radius: 30px;
+    font-weight: 600;
+    cursor: pointer;
+    margin-top: 0.5rem;
+}
+
+.contenido-adicional {
+    max-width: 700px;
+    margin: 1rem auto 0;
+}
+
 /* CLASES ADICIONALES */
 .galeria {
     display: flex;
